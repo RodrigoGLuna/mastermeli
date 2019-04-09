@@ -1,13 +1,15 @@
 # Bienvenid@
 
-"Commit your life"
+*"Commit your life"*
 
 Hacer a la terminal mas linda: https://www.ikeinyyo.com/entorno-git-consola-mac/
+
+## Comandos usados
 
 git clone https://github.com/RodrigoGLuna/mastermeli.git
 Nota: comando para clonar le repositorio creado mediante GitHub
 
-Comandos para subir cambios:
+**Comandos para subir cambios:**
 git add *
 git commit -m "Mensaje"
 git push
@@ -15,7 +17,7 @@ git push
 git push origin V.0.1
 Nota: para subir solo el Tag
 
-Creacion de branch
+**Creacion de branch**
 git branch V.0.2
 git checkout V.0.2
 
