@@ -22,11 +22,19 @@ git checkout V.0.2
 git merge V.0.2
 Nota: me posiciono sobre la rama a la cual deseo unir con la especificada
 
+git branch --merged
+Nota: muestra las ramas fusionadas
+
+git branch --no-merged
+Nota: muestra las ramas no fusionadas
+
 ##Links de referencia:
 -Primeros Pasos: https://styde.net/primeros-pasos-con-git-y-github/
 -Protocolos: https://git-scm.com/book/es/v1/Git-en-un-servidor-Los-Protocolos
 -Table: https://help.github.com/en/articles/organizing-information-with-tables
 -Solucion a usuario invalido: https://stackoverflow.com/questions/29297154/github-invalid-username-or-password
+-Listar ramas fusionadas y sin fusionar: https://stackoverflow.com/questions/226976/how-can-i-know-if-a-branch-has-been-already-merged-into-master
+-Ver conflictos:https://styde.net/ramas-y-resolucion-de-conflictos-en-git/
 
 
 ##Tabla
