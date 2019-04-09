@@ -19,6 +19,9 @@ Creacion de branch
 git branch V.0.2
 git checkout V.0.2
 
+git merge V.0.2
+Nota: me posiciono sobre la rama a la cual deseo unir con la especificada
+
 ##Links de referencia:
 -Primeros Pasos: https://styde.net/primeros-pasos-con-git-y-github/
 -Protocolos: https://git-scm.com/book/es/v1/Git-en-un-servidor-Los-Protocolos
